@@ -1,0 +1,9 @@
+# Python 3.12. These are the versions the instructor's solutions were checked with.
+pandas==3.0.6
+numpy
+xarray==2026.9.0
+netCDF4==1.7.5
+scipy==1.18.1
+matplotlib==3.11.2
+jupyterlab
+ipykernel

@@ -1,0 +1,27 @@
+{
+  "option": null,
+  "A_hot": {
+    "ph_trend_per_decade": null,
+    "ph_trend_stderr_per_decade": null,
+    "n_surface_ph_samples": null,
+    "sep_minus_apr_mean_surface_ph": null
+  },
+  "B_eia": {
+    "april_min_hour": null,
+    "april_min_net_load_mw": null,
+    "july_min_hour": null,
+    "april_mean_net_load_mw_by_hour": {
+      "0": null, "1": null, "2": null, "3": null, "4": null, "5": null,
+      "6": null, "7": null, "8": null, "9": null, "10": null, "11": null,
+      "12": null, "13": null, "14": null, "15": null, "16": null, "17": null,
+      "18": null, "19": null, "20": null, "21": null, "22": null, "23": null
+    }
+  },
+  "C_medsl": {
+    "n_counties_joined": null,
+    "median_shift_pts": null,
+    "shifts_csv": "results/county_shifts.csv",
+    "top10_toward_R_fips": [],
+    "top10_toward_D_fips": []
+  }
+}
