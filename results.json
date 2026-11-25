@@ -1,5 +1,5 @@
 {
-  "option": null,
+  "option": "C",
   "A_hot": {
     "ph_trend_per_decade": null,
     "ph_trend_stderr_per_decade": null,
@@ -18,10 +18,28 @@
     }
   },
   "C_medsl": {
-    "n_counties_joined": null,
-    "median_shift_pts": null,
+    "n_counties_joined": 3111,
+    "median_shift_pts": 1.5517903224,
     "shifts_csv": "results/county_shifts.csv",
-    "top10_toward_R_fips": [],
-    "top10_toward_D_fips": []
+    "top10_toward_R_fips": [ "48323",
+        "06025",
+        "48479",
+        "36005",
+        "36081",
+        "48427",
+        "34031",
+        "48127",
+        "12086",
+        "48215"],
+    "top10_toward_D_fips": ["19123",
+        "13151",
+        "48301",
+        "08111",
+        "08015",
+        "13247",
+        "13097",
+        "48257",
+        "38007",
+        "13223"]
   }
 }
